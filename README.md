@@ -1,10 +1,9 @@
 <div align="center">
 # Hi, I'm Brian! 👋
 
-**Numerical Analyst | Computational Mathematics @ XJTU | AI4S Enthusiast**
-[![Email](https://img.shields.io/badge/email-conqueror_math@stu.xjtu.edu.cn.com-c9242f?style=flat-square&logo=gmail)](mailto:conqueror_math@stu.xjtu.edu.cn)
+**Numerical Analyst | Computational Mathematics @ XJTU | AI4S Enthusiast**  
+[![Email](https://img.shields.io/badge/email-conqueror_math@stu.xjtu.edu.cn-c9242f?style=flat-square&logo=gmail)](mailto:conqueror_math@stu.xjtu.edu.cn)
 [![GitHub](https://img.shields.io/github/followers/你的用户名?label=follow&style=flat-square&logo=github)](https://github.com/你的用户名)
-[![XJTU](https://img.shields.io/badge/XJTU-Xi'an_Jiaotong_University-c9242f?style=flat-square&logo=academia)](https://www.xjtu.edu.cn/)
 
 ---
 </div>
