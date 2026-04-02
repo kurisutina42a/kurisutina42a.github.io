@@ -7,6 +7,7 @@
 
 ---
 </div>
+
 ### 🎓 Education
 
 #### **Master of Science (M.S.) in Computational Mathematics**
